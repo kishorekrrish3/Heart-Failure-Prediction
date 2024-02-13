@@ -18,6 +18,7 @@ This project focuses on predicting heart failure using machine learning techniqu
 
 ```bash
 pip install numpy pandas scikit-learn
+```
 
 Classifiers Used
 SVM (Support Vector Machine) Classifier
