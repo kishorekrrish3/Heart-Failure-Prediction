@@ -20,15 +20,15 @@ This project focuses on predicting heart failure using machine learning techniqu
 pip install numpy pandas scikit-learn
 ```
 
-Classifiers Used
-SVM (Support Vector Machine) Classifier
-KNN (K-Nearest Neighbors) Classifier
-Stochastic Gradient Descent
-Gaussian Naive Bayes
-Decision Tree Classifier
-Gradient Boosting
+##Classifiers Used
+- SVM (Support Vector Machine) Classifier
+- KNN (K-Nearest Neighbors) Classifier
+- Stochastic Gradient Descent
+- Gaussian Naive Bayes
+- Decision Tree Classifier
+- Gradient Boosting
 
-Results
+## Results
 Among the classifiers, the SVM Classifier achieved the highest accuracy score of 89%.
 
 
